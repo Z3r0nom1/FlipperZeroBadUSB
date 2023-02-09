@@ -1,6 +1,10 @@
 # Bad USB Custom Collection
 
-Bad USB scripts collection for Flipper Zero and Ducky devices.
+Bad USB scripts collection for Flipper Zero and Ducky devices. 
+
+## Disclaimer
+
+The scripts are made to prank people and always in the name of fun. I am not responsible for any malicious action or damage caused by the use of these scripts.
 
 ## Installation
 
