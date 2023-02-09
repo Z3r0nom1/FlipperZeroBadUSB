@@ -1,0 +1,10 @@
+REM Author: Z3R0NOM1	
+REM Description: Goes to the Genact online mode and fullscreen to make the user think the system has gone crazy.
+REM Version: 0.5
+REM Category: FUN
+GUI r
+DELAY 100
+STRING explorer https://svenstaro.github.io/genact/?module=memdump
+ENTER
+DELAY 100
+F11
