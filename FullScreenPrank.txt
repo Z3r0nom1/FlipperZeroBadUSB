@@ -4,7 +4,10 @@ REM Version: 0.5
 REM Category: FUN
 GUI r
 DELAY 100
-STRING explorer https://svenstaro.github.io/genact/?module=memdump
+STRING cmd
 ENTER
 DELAY 100
+STRING start https://svenstaro.github.io/genact/?module=memdump
+ENTER
+DELAY 600
 F11
